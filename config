@@ -1,0 +1,12 @@
+{
+    "startAddresses":  {
+                           "value":  [
+                                         ""
+                                     ],
+                           "Count":  1
+                       },
+    "hopLimit":  "10",
+    "serverLimit":  "1",
+    "sysRoot":  "C:\\INDEX\\",
+    "dataDir":  "C:\\INDEX\\data\\"
+}
